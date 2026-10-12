@@ -1,0 +1,10 @@
+[package]
+name = "room_planner"
+version = "0.1.0"
+edition = "2021"
+description = "A small local room planning app"
+
+[[bin]]
+name = "room-planner"
+path = "src/main.rs"
+
