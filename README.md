@@ -4,6 +4,8 @@ A lightweight room planner served locally by a small Rust standard-library web s
 
 Wall points and furniture use a 10 cm placement grid. Hold **Ctrl** while placing or moving a wall point to bypass the grid; it can still align horizontally or vertically with another point when it is within 10 cm. Drag wall points to adjust the outline while wall editing is enabled.
 
+After finishing the room outline, click a furniture catalog item to place it near the room centre, or drag it onto the floor plan to see a full-size placement preview.
+
 ## Run
 
 ```sh
